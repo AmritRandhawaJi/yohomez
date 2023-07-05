@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759253446573",
+    "project_id": "yohomez",
+    "storage_bucket": "yohomez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759253446573:android:a739db460867dc3fc63b24",
+        "android_client_info": {
+          "package_name": "com.yohomez.yohomez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759253446573-aia2biv2a4a88e2n6hmgd65s9g59cfr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcI4RpsqbgH1N7u5-Q3iQemUF7TIXlJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759253446573-aia2biv2a4a88e2n6hmgd65s9g59cfr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
